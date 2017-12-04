@@ -1,0 +1,17 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}INTRODUCCION}{2}{section.0.1}
+\contentsline {section}{\numberline {2}Objetivos}{2}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Generales}{2}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Espec\IeC {\'\i }ficos}{3}{subsection.0.2.2}
+\contentsline {section}{\numberline {3}Marco Te\IeC {\'o}rico}{3}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Copias de seguridad y restauraci\IeC {\'o}n de bases de datos}{3}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {3.2}c\IeC {\'o}mo impedir la p\IeC {\'e}rdida de los datos}{3}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {3.3}Tipos de Respaldo que Soporta Oracles}{5}{subsection.0.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Respaldo y Recuperaci\IeC {\'o}n}{5}{subsubsection.0.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Respaldos}{5}{subsubsection.0.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Herramientas a utilizar }{8}{subsubsection.0.3.3.3}
+\contentsline {section}{\numberline {4}Marco Conceptual}{11}{section.0.4}
+\contentsline {section}{\numberline {5}Desarrollo}{12}{section.0.5}
+\contentsline {subsection}{\numberline {5.1}Procedimientos para la creaci\IeC {\'o}n de copias}{12}{subsection.0.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Las copias de seguridad o backups pueden ser f\IeC {\'\i }sicas y l\IeC {\'o}gicas:}{13}{subsubsection.0.5.1.1}
+\contentsline {section}{\numberline {6}Conclusiones}{26}{section.0.6}

@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.0.1}{INTRODUCCION}{}% 1
+\BOOKMARK [1][-]{section.0.2}{Objetivos}{}% 2
+\BOOKMARK [2][-]{subsection.0.2.1}{Generales}{section.0.2}% 3
+\BOOKMARK [2][-]{subsection.0.2.2}{Espec\355ficos}{section.0.2}% 4
+\BOOKMARK [1][-]{section.0.3}{Marco Te\363rico}{}% 5
+\BOOKMARK [2][-]{subsection.0.3.1}{Copias de seguridad y restauraci\363n de bases de datos}{section.0.3}% 6
+\BOOKMARK [2][-]{subsection.0.3.2}{c\363mo impedir la p\351rdida de los datos}{section.0.3}% 7
+\BOOKMARK [2][-]{subsection.0.3.3}{Tipos de Respaldo que Soporta Oracles}{section.0.3}% 8
+\BOOKMARK [3][-]{subsubsection.0.3.3.1}{Respaldo y Recuperaci\363n}{subsection.0.3.3}% 9
+\BOOKMARK [3][-]{subsubsection.0.3.3.2}{Respaldos}{subsection.0.3.3}% 10
+\BOOKMARK [3][-]{subsubsection.0.3.3.3}{Herramientas a utilizar }{subsection.0.3.3}% 11
+\BOOKMARK [1][-]{section.0.4}{Marco Conceptual}{}% 12
+\BOOKMARK [1][-]{section.0.5}{Desarrollo}{}% 13
+\BOOKMARK [2][-]{subsection.0.5.1}{Procedimientos para la creaci\363n de copias}{section.0.5}% 14
+\BOOKMARK [3][-]{subsubsection.0.5.1.1}{Las copias de seguridad o backups pueden ser f\355sicas y l\363gicas:}{subsection.0.5.1}% 15
+\BOOKMARK [1][-]{section.0.6}{Conclusiones}{}% 16
